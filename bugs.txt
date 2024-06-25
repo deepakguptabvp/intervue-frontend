@@ -1,0 +1,104 @@
+General notes:
+1. Submit Task in the form of zip 
+2. Do not include the node modules
+3.Make react application in the vite only
+4. Give the exact name of the task to the folder you upload to the drive
+5.Use Tailwind only and not css
+6.Page must be responcive
+-----------------------------------------------------------------------------------------
+
+company
+
+company - we are hiring :Golu : Task not available in Google drive :aiswariya :20-6-24
+company -Mission : Keshav , Kumar Shanoo:Done :integrated .
+No need Slack community
+No need book a demo
+
+company -contact us: Prashant : not completed :Pratiksha :20-6-24: Done :integrated
+	
+company - Request us:Mohit :Ask him to send request a feature again by
+removing the node modules , to the dirve or to me direcly , it is not unziping bz of it is large 
+All 
+
+
+company -our customers :suraj :Task not available in Google drive :Submitted to nandini madam ask her:not present
+
+company -FAQ : Shouryam :Not resposive , ask to make it responsive to him
+and submit by removing the node modules.  : Shrikant (21-6-24) :completed
+
+
+Solutions :
+StartUps: 	Shauryam :Not Responsive :Pratiksha :Done :integrated 
+IT services: Shauryam :Not Responsive : Neel (17-6-24):complted :integrated 
+IT staffing :Shauryam :Not Responsive :Neel (17-6-24):done :integrated 
+Campuses : Shauryam : Not Responsive : Neel (17-6-24):done :intergated
+Coding School :Shauryam :Not Responsive :Vipin (20-6-24):
+
+
+Product:
+Interview as a Serice:Praveen, Pravin :
+It is responsive but , page is not correct after Maximizing placement success with 
+real interviews :Unnati (21-4-24):Done
+
+Features :Shripad, Salauddin: Styling is not good and It is not responsive :Rohit kumar (20-6-24)
+
+Profiles:Shivam, Golu :Not created properly , assemble it in react , Not responsive: Tejas (20-6-24):
+
+Pricing : not found , need to create :Mohit : 21-6-24
+....
+Testimonials :Harapriya: NOt in react , create it in react component: Shrikant : 22-6-24
+
+Integrations: Rishi : Done
+
+Status :Suraj, Kumar Shanoo: Not available need to create it :Aishwarya: 22-6-24
+
+Changelogs:Aishwarya : import java_logo from "../Assets/java_logo.svg";
+import backend_logo from "../Assets/backend_logo.png";
+import fullstack_logo from "../Assets/fullstack_logo.png";
+
+Give full code not component only :Done
+
+Use cases:
+Accelerate tech hiring:Deepak :Done
+Standardized interviews :Deepak :Done
+Cater to niche roles :Deepak :Done
+Candidate experience :Deepak :Done
+Hiring analytics:Deepak :Done
+Diversity & inclusion: Deepak:Done 
+Mock interviews:Deepak :DOne
+Pair programming:Deepak :Done
+
+Ask pseudo code: Rishi : Not completed , assigne it :Pratiksha jani :23-6-24
+
+Reduce Rejection Ratio : Tejas : Could not find a required file.
+  Name: index.html
+  Searched in: C:\Users\laxma\Downloads\reduce_rejection_ratio_page (2)\reduce_rejection_ratio_page\public
+
+Submit full react project
+Campus recruitment software:Rohit kumar:Done , nice
+
+
+
+Resources
+
+Candidates Starter Guide	:Tejas : Not able to downlode , remove node files and then reupload 
+Case studies	:Sai Jyothsna : Not in react , integrate it in the react component :
+Blog	:Sai, Rashmi :Not available , create it :Rohit korake :23-6-24
+Glossary:	Shivam, shivam kumar, golu :Done Good work
+Job Description	:shivam : some svg files are not present , add it and check for responciveness , :Harapriya :24-6-24
+Flutter Page Drupal	Flutter:	Shashank :Not completed task , reassign task
+
+
+Use cases:
+System design interviews	:Sai, Sagar: not created 
+Product manager interviews	:Suraj, Prathamesh : Some below section in the page is not mobile friendly , make it mobile friendly and responcive
+Lateral hiring	:Deepak :Done
+Campus hiring	:Deepak:Done
+Frontend application dev:	Narendra: lower part of the task 
+is not responcive , solve that bug. and submit by removing the nodemoduels.
+Backend application dev	:Shrangit: Not present , create it 
+Fullstack application dev:	Prashant :Done good work
+Data Science-bases application dev:	Tejas :Not able to downlode , remove node files and then reupload 
+
+
+
